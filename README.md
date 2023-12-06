@@ -16,6 +16,8 @@ A simple Tic-Tac-Toe game implemented using Vue.js for the frontend and Tailwind
 
 [Check out the live demo here](https://tic-tac-toe-vue-js.netlify.app)
 
+![Screenshot 2023-12-06 at 8 06 08 PM](https://github.com/Saty-am02/tictactoe-vue/assets/88832726/fffaf6ca-90f2-49ab-af02-b275a6240daf)
+
 ## Features
 
 - Two-player modes

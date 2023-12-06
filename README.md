@@ -32,13 +32,9 @@ A simple Tic-Tac-Toe game implemented using Vue.js for the frontend and Tailwind
     git clone https://github.com/your-username/tic-tac-toe-vue-tailwind.git
     ```
 
-2. Change into the project directory:
 
-    ```bash
-    cd tic-tac-toe-vue-tailwind
-    ```
 
-3. Install dependencies:
+2. Install dependencies:
 
     ```bash
     npm install

@@ -48,8 +48,6 @@ A simple Tic-Tac-Toe game implemented using Vue.js for the frontend and Tailwind
     npm run serve
     ```
 
-2. Open your browser and visit [http://localhost:8080](http://localhost:8080) to play the Tic-Tac-Toe game.
-
 ## Development
 
 - The project is built with Vue.js and Tailwind CSS. Explore the `src` directory for Vue components and styles.

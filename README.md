@@ -45,7 +45,7 @@ A simple Tic-Tac-Toe game implemented using Vue.js for the frontend and Tailwind
 1. Run the development server:
 
     ```bash
-    npm run serve
+    npm run dev
     ```
 
 ## Development
